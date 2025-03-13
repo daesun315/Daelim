@@ -1,2 +1,5 @@
 2주차
 1교시 git 설치
+2교시 git 명령어 status, init, add, commit -m"커밋메세지"
+add<파일명>
+log
