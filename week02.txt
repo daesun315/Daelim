@@ -3,3 +3,5 @@
 2교시 git 명령어 status, init, add, commit -m"커밋메세지"
 add<파일명>
 log
+checkout <해시코드 전체 또는 해시코드 7자리>
+checkout -
