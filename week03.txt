@@ -6,3 +6,8 @@ bash 선택
 git 명령어
 remote - v
 .gitignore 이해
+2교시
+소수 판정 프로그램 컨버전
+3교시
+clone
+git remote remove origin
