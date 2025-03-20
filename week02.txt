@@ -5,3 +5,6 @@ add<파일명>
 log
 checkout <해시코드 전체 또는 해시코드 7자리>
 checkout -
+branch -M main
+remote add origin https://github.com/사용자아이디/원격리포지토리이름.git
+git push -u origin main
