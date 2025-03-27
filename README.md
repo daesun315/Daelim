@@ -1,1 +1,1 @@
-이 리포지토리는 깃과 깃허브를 연습하는 용도로 활용합니다
+I use this repository to practice Git and GitHub.
