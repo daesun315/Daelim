@@ -7,10 +7,9 @@ git 명령어
 remote - v
 .gitignore 이해
 2교시
-소수 판정 프로그램 컨버전d
-linux명령어
-cat 파일명
-
+소수 판정 프로그램 컨버전
+git명령어
 3교시
 clone
+
 git remote remove origin
