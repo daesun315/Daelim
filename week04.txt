@@ -1,7 +1,13 @@
 3주차
 1교시
+<<<<<<< HEAD
 conflict
+=======
+git명령어
+log --oneline
+>>>>>>> 2818aed0edb2aede2da18671300e51e107a05fdb
 
+linux명령어
 
 2교시
 
